@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lo Quiero!</title>
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="icon" type="image/x-icon" href="./img/logo/logo.png">
+</head>
+<body>
+
+  <header>
+    <nav>
+      <a href="#inicio">Inicio</a>
+      <a href="#productos">Productos</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <section class="banner">
+    <div class="overlay">
+    <img src="./img/logo/Imagen de WhatsApp 2025-10-09 a las 20.44.10_9a62a4d4.jpg" alt="Banner de Lo Quiero!">
+    </div>
+    <h1 class="title">Lo Quiero!</h1>
+  </section>  
+
+  <section id="inicio" class="hero">
+    <h2>Estilo, comodidad y actitud</h2>
+    <p>Prendas femeninas con diseños únicos.</p>
+    <a href="#productos" class="btn">Ver productos</a>
+  </section>
+
+  <section>
+    <h1 class="nuesproduc">Nuestros productos</h1>
+  </section>
+
+  <section id="productos" class="productos">
+    <h2>CAMISAS</h2>
+
+    <div class="grid">
+      <div class="card">
+        <div class="img-box">
+        <img src="./img/camisas/1.jpg" alt="Gala" class="img-front">
+        <img src="./img/camisas/1.1.jpg" alt="Gala" class="img-back">
+        
+        </div>
+        <h3>Camisa Gala</h3>
+        <p>(Importada 🇧🇷)</p>
+        <p>$25.000</p>
+      </div>
+
+      <div class="card">
+        <div class="img-box">
+        <img src="./img/camisas/2.jpg" alt="Gala" class="img-front">
+        <img src="./img/camisas/2.1.jpg" alt="Gala" class="img-back">
+        </div>
+        <h3>Camisa Cleo</h3>
+        <p>(Importada 🇧🇷)</p>
+        <p>$25.000</p>
+      </div>
+
+      <div class="card">
+        <div class="img-box">
+        <img src="./img/camisas/3.jpg" alt="Gala" class="img-front">
+        <img src="./img/camisas/3.1.jpg" alt="Gala" class="img-back">
+        </div>
+        <h3>Camisa Aura</h3>
+        <p>(Importada 🇧🇷)</p>
+        <p>$25.000</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="productos" class="productos">
+    <h2>BLUSAS</h2>
+    <div class="grid">
+      <div class="card">
+        <div class="img-box">
+        <img src="./img/blusas/1.jpg" alt="Shain" class="img-front">
+        <img src="./img/blusas/1.1.jpg" alt="Shain" class="img-back">
+        </div>
+        <h3>Blusa Shain</h3>
+        <p>(Importada 🇧🇷)</p>
+        <p>$25.000</p>
+      </div>
+      <div class="card">
+        <div class="img-box">
+        <img src="./img/blusas/2.jpg" alt="Shain" class="img-front">
+        <img src="./img/blusas/2.1.jpg" alt="Shain" class="img-back">
+        </div>
+        <h3>Blusa India</h3>
+        <p>(Importada 🇧🇷)</p>
+        <p>$25.000</p>
+      </div>
+      <div class="card">
+        <div class="img-box">
+        <img src="./img/blusas/3.jpg" alt="Shain" class="img-front">
+        <img src="./img/blusas/3.1.jpg" alt="Shain" class="img-back">
+        </div>
+        <h3>Blusa Pink</h3>
+        <p>(Industria 🇦🇷)</p>
+        <p>$8.000</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="productos" class="productos">
+    <h2>REMERAS</h2>
+    <div class="grid">
+      <div class="card">
+        <div class="img-box">
+        <img src="./img/remeras/1.1.jpg" alt="Remera" class="img-front">
+        <img src="./img/remeras/1.jpg" alt="Remera" class="img-back">
+        </div>
+        <h3>Remera Galla</h3>
+        <p>(Importada 🇧🇷)</p>
+        <p>$12.000</p>
+      </div>
+      <div class="card">
+        <div class="img-box">
+        <img src="./img/remeras/2.1.jpg" alt="Remera" class="img-front">
+        <img src="./img/remeras/2.jpg" alt="Remera" class="img-back">
+        </div>
+        <h3>Remera Lia</h3>
+        <p>(Industria 🇦🇷)</p>
+        <p>$8.000</p>
+      </div>
+      <div class="card">
+        <div class="img-box">
+        <img src="./img/remeras/3.1.jpg" alt="Remera" class="img-front">
+        <img src="./img/remeras/3.jpg" alt="Remera" class="img-back">
+        </div>
+        <h3>Remera Aurora</h3>
+        <p>(Industria 🇦🇷)</p>
+        <p>$8.000</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contacto" class="contacto">
+    <h2>Contacto</h2>
+    <p>📬 Envíos a todo el país | 📱 WhatsApp</p>
+    <a href="https://wa.me/541155555555" target="_blank" class="btn">Hablá con nosotros</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Lo Quiero! - Todos los derechos reservados</p>
+  </footer>
+
+  <script src="./script.js"></script>
+</body>
+</html>
