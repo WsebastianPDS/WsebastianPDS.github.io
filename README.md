@@ -38,8 +38,8 @@ El proyecto fue desarrollado **desde cero**, sin frameworks, priorizando la comp
 ## 🛠️ Tecnologías utilizadas
 
 - HTML5
-- CSS3
-- JavaScript (básico)
+- CSS
+- JavaScript
 - GitHub Pages
 
 ---
@@ -61,8 +61,10 @@ El proyecto fue desarrollado **desde cero**, sin frameworks, priorizando la comp
 
 ## 📌 Estado del proyecto
 
-✔️ Proyecto finalizado  
+✔️ Proyecto finalizado 
+
 ✔️ Funcional  
+
 ✔️ Publicado online  
 
 ---
