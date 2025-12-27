@@ -47,9 +47,13 @@ El proyecto fue desarrollado **desde cero**, sin frameworks, priorizando la comp
 ## 📂 Estructura del proyecto
 /
 ├── index.html
+
 ├── styles.css
+
 ├── script.js
+
 ├── img/
+
 └── README.md
 
 ---
