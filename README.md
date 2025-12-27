@@ -62,8 +62,8 @@ El proyecto fue desarrollado **desde cero**, sin frameworks, priorizando la comp
 ## 📸 Captura de pantalla
 
 <p align="center">
-  <img src="cap/cap2.png" alt="Vista" width="310" height="200" style="object-fit: cover; border-radius: 8px;"/>
-  <img src="cap/cap1.png" alt="Vista" width="310" height="200" style="object-fit: cover; border-radius: 8px;"/>
+  <img src="cap/cap2.png" alt="Vista" width="500" height="500" style="object-fit: cover; border-radius: 8px;"/>
+  <img src="cap/cap1.png" alt="Vista" width="500" height="500" style="object-fit: cover; border-radius: 8px;"/>
 </p>
 
 ---
