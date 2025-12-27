@@ -84,7 +84,7 @@ El proyecto fue desarrollado **desde cero**, sin frameworks, priorizando la comp
 ## 👤 Autor
 
 **William Sebastian Pinto Da Silva**  
-Developer Jr. | QA Tester Jr.
+Junior Backend Developer | C# · .NET · SQL | QA Testing
 
 ---
 
