@@ -59,6 +59,15 @@ El proyecto fue desarrollado **desde cero**, sin frameworks, priorizando la comp
 
 ---
 
+## 📸 Captura de pantalla
+
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="fotos/captura.png" alt="Pantalla principal" width="310" height="200" style="object-fit: cover; border-radius: 8px;"/>
+  <img src="fotos/elementos1.png" alt="Vista del juego 1" width="310" height="200" style="object-fit: cover; border-radius: 8px;"/>
+</p>
+
+---
+
 ## 📌 Estado del proyecto
 
 ✔️ Proyecto finalizado 
